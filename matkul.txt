@@ -2,4 +2,5 @@ prak_sbd
 prak_jarkom
 prak_asd
 prak_SO
-prak_pbo
+prak_algostruk
+prak_sisdig
