@@ -1,9 +1,13 @@
 prak_sbd
+  - konsep dasar
   - bahasa query
     * SELECT
     * DELETE
     * JOIN
     * UPDATE
+    * MIN,AVG,MAX
+    * BETWEEN
   - sistem basis data
-  - model data
   - aplikasi data
+  - PL/SQL
+  - ketergantungan fungsional
