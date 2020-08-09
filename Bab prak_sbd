@@ -1,5 +1,8 @@
 prak_sbd
   - bahasa query
+    * SELECT
+    * DELETE
+    * JOIN
   - sistem basis data
   - model data
   - aplikasi data
