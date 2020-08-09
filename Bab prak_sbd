@@ -1,4 +1,5 @@
 prak_sbd
+  - konsep dasar
   - bahasa query
     * SELECT
     * DELETE
@@ -8,6 +9,7 @@ prak_sbd
     * AND,OR,NOT
   - normalisasi
   - sistem basis data
-  - model data
   - aplikasi data
-  - ERD
+  - PL/SQL
+  - ketergantungan fungsional
+
