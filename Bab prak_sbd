@@ -5,9 +5,11 @@ prak_sbd
     * DELETE
     * JOIN
     * UPDATE
-    * MIN,AVG,MAX
-    * BETWEEN
+    * INSERT
+    * AND,OR,NOT
+  - normalisasi
   - sistem basis data
   - aplikasi data
   - PL/SQL
   - ketergantungan fungsional
+
