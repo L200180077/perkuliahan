@@ -4,6 +4,10 @@ prak_sbd
     * DELETE
     * JOIN
     * UPDATE
+    * INSERT
+    * AND,OR,NOT
+  - normalisasi
   - sistem basis data
   - model data
   - aplikasi data
+  - ERD
